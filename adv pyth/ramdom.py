@@ -5,7 +5,7 @@
 # -- reproduce numbers with random.seed()
 # -- create cryptographically strong random numbers with the secrets modul
 # -- create random nd arrays with numpy.random
-from gettext import install
+
 
 #----------------------------------------------------------------------
 #--------------------#THE RANDOM MODULE--------------------------------
