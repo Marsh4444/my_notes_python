@@ -1,0 +1,68 @@
+📝 Dev Log — Today’s Work
+---------------------------------------------------
+Beginning to intermediate.
+---------------------------------
+----Functions
+What to learn.
+So your status for Day 1:
+Task	Status
+Function basics	✔️ Completed
+Positional args	✔️ Completed
+Keyword args	✔️ Completed
+Default args	✔️ Completed
+*args	✔️ Completed
+**kwargs	✔️ Completed
+Mixed usage	✔️ Completed
+Return vs print understanding	✔️ Completed
+Practiced 6–10 functions	✔️ Completed
+Applicative order	⛔ Not done yet
+Create notes_functions.py	⚠️ Partially done (needs skeleton)
+
+What I Learned
+•	Variadic Arguments
+o	*args collects extra positional arguments into a tuple.
+o	**kwargs collects extra keyword arguments into a dictionary.
+o	Useful when building flexible functions like your officers_details() example.
+•	Why return showed only one output but print showed all
+o	A function can only return one value once — the moment return runs, the function stops.
+o	print() can run multiple times inside the loop, so each key–value pair gets printed.
+o	If you want to return everything, you must build a single object (like a string or dict) and return that.
+•	Applicative Order (Python Evaluation Rule)
+o	Python evaluates all arguments first before calling the function.
+o	Example:
+o	func(a(), b())
+a() and b() are evaluated before func runs.
+o	Helps you understand why some functions run earlier than expected.
+•	Notes App Skeleton
+o	You created the base structure:
+o	def addNote():
+o	    pass
+o	
+o	def listNotes():
+o	    pass
+o	
+o	def deleteNotes():
+o	    pass
+o	Ready for the next part: adding the applicative logic (how everything connects).
+________________________________________
+What Challenged Me
+•	Grasping the difference between print() vs return in a loop.
+•	Fully understanding how Python evaluates arguments before calling the main function.
+•	Moving from function skeleton to full application logic in the Notes App.
+________________________________________
+Next Step
+1.	Add proper logic inside:
+o	addNote()
+o	listNotes()
+o	deleteNotes()
+2.	Store notes in a list or dictionary.
+3.	Make a menu interface:
+o	Add note
+o	View notes
+o	Delete note
+o	Exit
+4.	Practice building functions that use *args and **kwargs.
+________________________________________
+Reflection
+Today’s progress shows deeper clarity in function behavior and argument evaluation. You're now understanding not just what Python does — but why it behaves that way. The Notes App project will push you into real-world logic flow, which is the bridge from beginner to intermediate Python.
+
