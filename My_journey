@@ -1,0 +1,796 @@
+====================
+*Perfect plan!* That makes total sense.
+
+## *Your Complete Roadmap (Updated)*
+
+### *2025-2026 Timeline:*
+
+*Phase 1: Foundation (Now - Dec 2025)*
+- 6 weeks: DSA ✅
+
+*Phase 2: Backend Mastery (Jan - Sept 2026)*
+- 2 weeks: Django basics
+- 8 weeks: Food business app (Django + Bootstrap)
+- 6-8 weeks: Project 1 - Task Management API
+- 6-8 weeks: Project 2 - E-commerce Backend  
+- 6-8 weeks: Project 3 - Social Media Analytics
+
+*Phase 3: Frontend (Q4 2026 - Oct-Dec)*
+- Learn ONE frontend stack (React recommended)
+- Build a frontend project
+- Connect it to one of your backend APIs
+
+*Phase 4: Job Ready (End of 2026)*
+- Full-stack developer with both skills
+- 3 backend projects + 1 frontend project + 1 real business app
+- Ready for backend OR full-stack roles
+
+---
+
+## *Why This Approach is Smart:*
+
+✅ *Master backend first* (your main goal)
+✅ *Food business app* teaches you real-world development
+✅ *3 portfolio projects* show backend expertise
+✅ *Then add frontend* to become more versatile
+✅ *Full-stack* opens MORE job opportunities
+
+---
+
+## *Frontend Stack Recommendation (For Q4 2026):*
+
+When you get there, learn *React* because:
+- Most popular (more jobs)
+- Works perfectly with Django REST APIs
+- You already built the backend APIs, just need frontend
+- Can even rebuild your food business app frontend with React
+
+*Q4 2026 Frontend Project Ideas:*
+1. Build a React frontend for your Task Management API
+2. Build a React frontend for your E-commerce backend
+3. Rebuild the food business app with modern React UI
+4. Build a new full-stack app (React + Django)
+
+---
+
+## *So For Now:*
+
+*Focus 100% on:*
+1. DSA (6 weeks) ← Starting Monday
+2. Django backend (2 weeks)
+3. Food business app (8 weeks) ← Simple Django templates
+4. 3 Portfolio backend projects (24 weeks)
+
+*Don't worry about frontend yet.* You'll tackle that in Q4 2026.
+
+---
+
+## *Your Food Business App Strategy:*
+
+Since you're learning frontend later anyway:
+- Build it *simple with Django + Bootstrap* now (10 weeks)
+- Gets your girlfriend's business running FAST
+- *In Q4 2026* when you learn React, you can:
+  - Keep the Django backend as-is
+  - Rebuild just the frontend with React
+  - Much better UX for her customers
+  - Great full-stack portfolio piece
+
+*Win-win!* ✅ She gets a working site now, ✅ You get a full-stack project later
+
+---
+
+*Ready for DSA Week 1 on Monday?* Let's focus on becoming a backend expert first! 🚀
+
+=============================================
+Backend Developer Learning Roadmap
+Goal: Become a Backend Software Developer by End of 2026
+
+Current Progress
+✅ Python fundamentals
+✅ Git basics
+🔄 OOP (finishing this month)
+⏳ DSA (starting next week)
+Overall Timeline
+Phase 1: Foundation (Now - December 2025)
+November 2025: Complete OOP + Start DSA
+November - December 2025: DSA (6 weeks)
+Continue throughout: DSA practice (1-2 problems daily)
+
+Phase 2: Backend Core (January - March 2026)
+3 months: Django + Databases + System Design basics
+
+Phase 3: Portfolio Projects (April - September 2026)
+Project 1: Task Management API (6-8 weeks)
+Project 2: E-commerce Backend (6-8 weeks)
+Project 3: Social Media Analytics (6-8 weeks)
+
+Phase 4: Job Preparation (October - December 2026)
+Polish portfolio
+Mock interviews
+Networking
+Job applications
+
+6-Week DSA Learning Plan
+Week 1: Arrays, Strings & Time Complexity
+Topics to Cover:
+Big O notation (time and space complexity)
+Array manipulation techniques
+String operations
+Basic problem-solving patterns
+Reading Materials:
+GeeksforGeeks: Big O notation
+GeeksforGeeks: Arrays in Python
+GeeksforGeeks: String manipulation
+LeetCode Explore: Arrays 101
+Video Resources:
+freeCodeCamp "Algorithms and Data Structures" (first 2 hours)
+NeetCode "Big O Notation Explained"
+NeetCode "Arrays & Hashing" playlist
+Practice Problems (LeetCode):
+Two Sum (Easy)
+Best Time to Buy and Sell Stock (Easy)
+Contains Duplicate (Easy)
+Valid Anagram (Easy)
+Reverse String (Easy)
+Product of Array Except Self (Medium)
+Daily Study Pattern:
+Morning (1 hour):
+
+Read GeeksforGeeks article (20 min)
+Watch video (30 min)
+Review yesterday's notes (10 min)
+Evening (1.5-2 hours):
+
+Solve 2 problems
+First attempt without help (30 min each)
+If stuck, watch solution then code yourself
+Write down patterns learned
+Week Goal:
+Solve 12-15 problems, understand Big O thoroughly
+
+Week 2: Hash Tables & Two Pointers
+Topics to Cover:
+Hash tables/dictionaries implementation
+Hash maps and hash sets
+Two pointers technique
+Sliding window basics
+Reading Materials:
+GeeksforGeeks: Hash Tables
+GeeksforGeeks: Hashing Techniques
+LeetCode Explore: Hash Table card
+Video Resources:
+NeetCode "Hash Maps Explained"
+Abdul Bari "Hashing Technique" playlist
+mycodeschool "Hashing" videos
+Practice Problems:
+Group Anagrams (Medium)
+Top K Frequent Elements (Medium)
+Valid Palindrome (Easy)
+Two Sum II (Easy)
+3Sum (Medium)
+Container With Most Water (Medium)
+Trapping Rain Water (Hard)
+Weekend Project:
+Implement your own hash table from scratch with collision handling
+
+Week Goal:
+Solve 14-16 problems, master hash table patterns
+
+Week 3: Linked Lists & Stacks/Queues
+Topics to Cover:
+Singly linked lists
+Doubly linked lists
+Stack implementation and applications
+Queue implementation
+Fast/slow pointer technique
+Reading Materials:
+GeeksforGeeks: Linked Lists complete guide
+GeeksforGeeks: Stack and Queue
+Visualgo.net: Linked List visualization
+Video Resources:
+NeetCode "Linked List" playlist
+mycodeschool "Data Structures - Linked Lists"
+Abdul Bari "Linked List" videos
+Practice Problems:
+Reverse Linked List (Easy)
+Merge Two Sorted Lists (Easy)
+Linked List Cycle (Easy)
+Remove Nth Node From End (Medium)
+Valid Parentheses (Easy)
+Min Stack (Medium)
+Implement Queue using Stacks (Easy)
+Implementation Projects:
+Build LinkedList class with insert, delete, search methods
+Build Stack class
+Build Queue class
+Week Goal:
+Solve 14-16 problems, implement data structures from scratch
+
+Week 4: Trees & Binary Search Trees
+Topics to Cover:
+Binary trees
+Binary search trees (BST)
+Tree traversals (inorder, preorder, postorder)
+DFS vs BFS
+Recursion on trees
+Reading Materials:
+GeeksforGeeks: Binary Trees
+GeeksforGeeks: BST operations
+GeeksforGeeks: Tree Traversals
+LeetCode Explore: Binary Tree card
+Video Resources:
+NeetCode "Trees" playlist
+mycodeschool "Tree Data Structure" videos
+Abdul Bari "Trees" playlist
+Practice Problems:
+Maximum Depth of Binary Tree (Easy)
+Invert Binary Tree (Easy)
+Diameter of Binary Tree (Easy)
+Balanced Binary Tree (Easy)
+Same Tree (Easy)
+Lowest Common Ancestor (Medium)
+Binary Tree Level Order Traversal (Medium)
+Validate Binary Search Tree (Medium)
+Implementation Projects:
+Build BinaryTree class with all traversals
+Build BST class with insert, search, delete
+Week Goal:
+Solve 14-16 problems, master tree recursion
+
+Week 5: Recursion, Backtracking & Dynamic Programming
+Topics to Cover:
+Recursion fundamentals
+Backtracking patterns
+Introduction to Dynamic Programming
+Memoization
+Bottom-up vs top-down approaches
+Reading Materials:
+GeeksforGeeks: Recursion
+GeeksforGeeks: Backtracking
+GeeksforGeeks: Dynamic Programming introduction
+GeeksforGeeks: Memoization
+Video Resources:
+Abdul Bari "Recursion" playlist
+NeetCode "Dynamic Programming" beginner videos
+freeCodeCamp "Dynamic Programming" section
+Practice Problems:
+Recursion:
+
+Fibonacci Number (Easy)
+Climbing Stairs (Easy)
+Power(x, n) (Medium)
+Backtracking: 4. Subsets (Medium) 5. Permutations (Medium) 6. Combination Sum (Medium)
+
+Dynamic Programming: 7. House Robber (Medium) 8. Coin Change (Medium) 9. Longest Increasing Subsequence (Medium)
+
+Key Technique:
+For each DP problem:
+
+Solve with recursion first
+Add memoization
+Convert to bottom-up if possible
+Draw recursion tree
+Week Goal:
+Solve 12-14 problems, understand DP basics
+
+Week 6: Graphs, Heaps & Review
+Topics to Cover:
+Graph representations (adjacency list/matrix)
+BFS and DFS on graphs
+Heaps and priority queues
+Review all previous topics
+Reading Materials:
+GeeksforGeeks: Graph Data Structure
+GeeksforGeeks: BFS and DFS
+GeeksforGeeks: Heap Data Structure
+Visualgo.net: Graph visualization
+Video Resources:
+NeetCode "Graphs" playlist
+William Fiset "Graph Theory" playlist
+Abdul Bari "Heap" videos
+Practice Problems:
+Graphs:
+
+Number of Islands (Medium)
+Clone Graph (Medium)
+Pacific Atlantic Water Flow (Medium)
+Course Schedule (Medium)
+Heaps: 5. Kth Largest Element (Medium) 6. Top K Frequent Elements (Medium) 7. Merge K Sorted Lists (Hard)
+
+Review:
+
+Revisit 5-10 hardest problems from weeks 1-5
+Practice mixed problem sets
+Implementation Projects:
+Build Graph class with BFS/DFS methods
+Implement MinHeap class
+Week Goal:
+Solve 12-15 problems, review all patterns
+
+Problem-Solving Framework (Use Every Time)
+The 7-Step Approach:
+Understand: Read problem 2-3 times, clarify inputs/outputs
+Example: Work through example manually on paper
+Approach: Think brute force first, then optimize
+Pseudocode: Write steps before coding
+Code: Implement solution
+Test: Run with edge cases (empty, single element, duplicates)
+Optimize: Can you improve time/space complexity?
+When Stuck (30-minute rule):
+Struggle for 30 minutes trying different approaches
+If still stuck, look at hints only
+If still stuck after hints, watch solution explanation
+Always code the solution yourself after watching
+Come back to the problem in 3 days
+DSA Practice Resources
+Reading:
+GeeksforGeeks (geeksforgeeks.org) - Comprehensive explanations
+LeetCode Explore Cards (leetcode.com/explore) - Structured learning
+VisuAlgo (visualgo.net) - Algorithm visualizations
+Videos:
+NeetCode (YouTube) - Best for interview prep
+Abdul Bari (YouTube) - Theoretical depth
+mycodeschool (YouTube) - Classic clear explanations
+freeCodeCamp (YouTube) - Full structured courses
+William Fiset (YouTube) - Advanced topics
+Practice Platforms:
+LeetCode (leetcode.com) - Primary platform
+HackerRank (hackerrank.com) - Alternative practice
+NeetCode 150 (neetcode.io) - Curated problem list
+3-Month Django & Database Learning Plan
+Month 1: Django Fundamentals + PostgreSQL Basics
+Week 1-2: Core Django
+Reading:
+
+Django Official Tutorial Parts 1-4
+Focus on: project structure, models, views, templates
+Videos:
+
+Corey Schafer Django Tutorial videos 1-8
+Topics:
+
+Django MVT pattern
+Models and migrations
+URL routing
+Views (function-based and class-based)
+Django ORM basics
+Django admin panel
+PostgreSQL:
+
+Read: postgresqltutorial.com basics
+Learn: SELECT, INSERT, UPDATE, DELETE, WHERE, JOINs
+Daily Practice:
+
+Code along with tutorials
+Type every line yourself
+Experiment with variations
+Week 3-4: Database & Django ORM + Mini Project
+Reading:
+
+Django Official Tutorial Parts 5-7
+Django ORM documentation
+Videos:
+
+Corey Schafer Django videos 9-12
+Topics:
+
+Django models in depth
+ForeignKey, ManyToMany, OneToOne relationships
+QuerySets, filtering, aggregations
+Database migrations
+Testing basics
+Mini Project: Blog Application
+
+Posts with title, content, author, date
+Comments on posts
+Categories/tags
+User authentication (Django built-in)
+Admin interface for management
+Goal: Understand Django fundamentals, comfortable with ORM
+
+Month 2: Django REST Framework + Authentication
+Week 1-2: DRF Basics
+Reading:
+
+Official DRF Tutorial Parts 1-3
+DRF documentation: serializers, views
+Videos:
+
+Dennis Ivy DRF Crash Course
+Very Academy DRF Beginners series
+Topics:
+
+Setting up DRF
+Serializers (basic and nested)
+APIView and ViewSets
+Routers and URL configuration
+Request and Response objects
+Testing APIs with Postman/Thunder Client
+Mini Project: Blog API
+
+Convert your blog to REST API
+CRUD operations for posts
+List, create, retrieve, update, delete endpoints
+Filtering and searching
+Week 3-4: Authentication & Permissions + Mini Project
+Reading:
+
+DRF Authentication documentation
+Real Python: JWT Authentication articles
+DRF Permissions guide
+Videos:
+
+Very Academy JWT Authentication
+Dennis Ivy DRF Authentication
+Topics:
+
+Token authentication
+JWT (JSON Web Tokens)
+User registration and login
+Permissions (IsAuthenticated, custom permissions)
+Password reset flows
+Mini Project: Todo List API
+
+User registration and login (JWT)
+Each user has their own todos
+CRUD operations on todos
+Filter todos by status (pending/completed)
+Due dates and priorities
+User can only see/edit their own todos
+Goal: Master DRF, understand authentication patterns
+
+Month 3: Advanced Topics + Start Portfolio Project
+Week 1: Redis & Caching
+Reading:
+
+Django caching documentation
+Real Python Redis articles
+Redis documentation basics
+Videos:
+
+Very Academy Redis & Caching tutorial
+Topics:
+
+Setting up Redis
+Caching views and querysets
+Cache invalidation strategies
+Session storage with Redis
+Practice:
+
+Add caching to Todo API
+Cache user's todo list
+Cache expensive queries
+Week 2: Celery & Async Tasks
+Reading:
+
+Celery "First Steps" documentation
+Django + Celery integration guide
+Videos:
+
+Very Academy Celery tutorial
+Celery task queue explanations
+Topics:
+
+Setting up Celery with Django
+Creating async tasks
+Task scheduling with Celery Beat
+Email notifications
+Background job processing
+Practice:
+
+Add email notifications to Todo API
+Send reminder emails for due tasks
+Process bulk operations in background
+Week 3: Testing & Documentation
+Reading:
+
+pytest documentation
+Django testing documentation
+drf-spectacular documentation
+Videos:
+
+Very Academy Django Testing series
+Topics:
+
+Writing unit tests with pytest
+Testing API endpoints
+Test fixtures and factories
+API documentation with Swagger
+Test coverage
+Practice:
+
+Write tests for Todo API
+Aim for 80%+ coverage
+Generate API documentation
+Week 4: Start Project 1 - Task Management API
+Foundation Setup:
+
+Project structure
+User authentication (JWT)
+Basic task model and CRUD
+Project/team models
+Permissions (team-based access)
+Goal: Have working authentication and basic task management
+
+Django Learning Resources
+Reading Materials (FREE):
+Django Official Tutorial - docs.djangoproject.com (MUST DO)
+Django Official Documentation - Always keep open as reference
+DRF Official Tutorial - www.django-rest-framework.org/tutorial
+Real Python - realpython.com (excellent articles)
+LearnDjango.com - Written tutorials
+MDN Django Tutorial - developer.mozilla.org
+Video Resources (FREE):
+Corey Schafer - Django Tutorial (YouTube) - Best comprehensive series
+Dennis Ivy (YouTube) - Project-based, practical
+Very Academy (YouTube) - Advanced topics, Celery, testing
+Programming with Mosh (YouTube) - Good overviews
+freeCodeCamp (YouTube) - Full courses
+Practice Resources:
+PostgreSQL Tutorial - postgresqltutorial.com
+Django Discord - Real-time help
+r/djangolearning (Reddit) - Community support
+Portfolio Projects
+Project 1: Task Management API with Team Collaboration
+Timeline: 6-8 weeks after Month 3
+
+Core Features:
+User authentication (JWT)
+Role-based permissions (admin, member, guest)
+CRUD for projects and tasks
+File uploads for attachments
+Real-time notifications (WebSockets/Celery)
+Team collaboration features
+Technical Implementation:
+Backend: Django REST Framework
+Database: PostgreSQL (complex queries, relationships)
+Caching: Redis for frequently accessed projects
+Async Tasks: Celery for email notifications
+Real-time: Django Channels for WebSockets
+Testing: pytest with 80%+ coverage
+Documentation: Swagger/OpenAPI
+Advanced Features:
+Rate limiting on API endpoints
+Full-text search for tasks
+API versioning
+Filtering by status, user, deadline
+Task dependencies
+Activity timeline
+Deployment:
+Dockerize with docker-compose
+Deploy to AWS EC2 or Railway
+CI/CD with GitHub Actions
+Environment configuration
+Monitoring and logging
+Why This Project: Shows authentication, permissions, database relationships, caching, async tasks, real-time features
+
+Project 2: E-commerce Backend with Payment Integration
+Timeline: 6-8 weeks after Project 1
+
+Core Features:
+Product catalog with variants
+Shopping cart functionality
+Order processing
+Payment integration (Stripe)
+Inventory management
+Order status tracking
+Email notifications
+Technical Implementation:
+Backend: Django REST Framework
+Database: Complex schema (products, orders, payments)
+Payments: Stripe integration
+Webhooks: Handle payment confirmations
+Transactions: Database transaction handling
+Admin: Custom admin dashboard
+Testing: Payment flow testing
+Advanced Features:
+Idempotency for payment operations
+Product search with filters (price, category, rating)
+Discount/coupon system
+Order analytics endpoints
+Inventory alerts
+Product recommendations
+Deployment:
+Docker deployment
+Secure payment handling
+Environment secrets management
+Production-ready error handling
+Why This Project: Shows complex business logic, payment integration, transaction handling, third-party APIs
+
+Project 3: Social Media Analytics Dashboard API
+Timeline: 6-8 weeks after Project 2
+
+Core Features:
+OAuth integration (Twitter/Reddit API)
+Scheduled data collection
+Analytics endpoints (engagement metrics, trends)
+Data visualization endpoints
+User dashboard preferences
+Data export functionality
+Technical Implementation:
+Backend: Django REST Framework + GraphQL
+Databases:
+PostgreSQL for user data and aggregated metrics
+MongoDB for raw social media data
+Caching: Redis for analytics results
+Async: Celery Beat for scheduled data collection
+APIs: Twitter API, Reddit API integration
+Rate Limiting: Expensive analytics queries
+Advanced Features:
+GraphQL API alongside REST
+Real-time data updates
+Complex analytics calculations
+Data aggregation pipelines
+CSV/JSON export
+Custom date range analytics
+Trend detection algorithms
+Deployment:
+Docker multi-container setup
+CI/CD pipeline
+Monitoring and logging
+Performance optimization
+Database indexing strategies
+Why This Project: Shows external API integration, both SQL and NoSQL, data processing, scalability, GraphQL
+
+Best Study Approach (For All Learning)
+The Learning Cycle:
+Read/Watch tutorial to understand concept
+Code Along while learning (type everything)
+Build the same thing without looking
+Reference docs when stuck
+Repeat with next topic
+Daily Study Routine:
+Morning (1-2 hours):
+
+Read tutorial/documentation (20-30 min)
+Watch corresponding video (30-40 min)
+Take notes on key concepts (10 min)
+Evening (2-3 hours):
+
+Code along with tutorial (1 hour)
+Build same feature from scratch (1 hour)
+Debug and reference docs (30 min)
+Weekend:
+
+Build mini projects
+Experiment and break things
+Review week's material
+Key Principles:
+✅ DO THIS:
+
+Small cycles: learn → practice → build
+Type every line of code yourself
+Apply immediately after learning
+Struggle before looking for help
+Draw diagrams and visualize
+Explain concepts out loud
+❌ DON'T DO THIS:
+
+Watch multiple tutorials without coding
+Copy-paste code without understanding
+Give up too quickly
+Skip "easy" topics
+Just read without implementing
+Using Documentation Effectively
+Documentation is NOT a textbook:
+Don't read cover-to-cover
+Use as a reference/dictionary
+Search for specific topics when needed
+Bookmark frequently used pages
+How to Use Docs:
+Start with tutorial sections (read like a book)
+After tutorials, use docs for lookup only
+When stuck while coding → search docs → read that section only
+Bookmark most-referenced pages
+Most-Referenced Django Docs:
+Models reference
+QuerySet API reference
+DRF Serializers reference
+Authentication guide
+Practice Exercise:
+After Django tutorial:
+
+Pick a feature (e.g., "file uploads")
+Search Django docs for it
+Read ONLY that page
+Implement in test project
+Repeat with different features
+Within a month, docs become your natural first stop for questions
+
+Timeline Summary
+2025
+November: Finish OOP, start DSA
+November-December: Complete DSA 6-week plan
+December onwards: 1-2 DSA problems daily (maintenance)
+2026
+January-March: Django + Databases (3 months)
+April-May: Project 1 - Task Management API
+June-July: Project 2 - E-commerce Backend
+August-September: Project 3 - Social Media Analytics
+October-December: Job prep, applications, interviews
+Job Preparation Phase (Final 3 Months)
+October 2026:
+Polish all 3 portfolio projects
+Write comprehensive READMEs
+Record demo videos
+Deploy all projects
+Clean up GitHub profile
+November 2026:
+Practice DSA problems (LeetCode Medium/Hard)
+Mock interviews (Pramp, Interviewing.io)
+System design study (for senior positions)
+Prepare behavioral answers (STAR method)
+December 2026:
+Active job applications (50-100 applications)
+Network on LinkedIn
+Attend tech meetups
+Contribute to open source
+Interview practice
+Skills Checklist for Backend Developer
+Programming & DSA:
+✅ Python proficiency
+✅ OOP concepts
+✅ Data structures & algorithms
+✅ Problem-solving skills
+Backend Development:
+Django framework
+Django REST Framework
+API development (REST, GraphQL)
+Database design (SQL & NoSQL)
+Authentication & authorization
+Caching strategies
+Async task processing
+Databases:
+PostgreSQL (advanced queries, indexing)
+MongoDB basics
+Database optimization
+Migrations
+Tools & DevOps:
+Git & GitHub
+Docker & docker-compose
+CI/CD (GitHub Actions)
+Basic Linux/command line
+Cloud platforms (AWS/GCP/Azure)
+API testing (Postman)
+Testing & Quality:
+Unit testing (pytest)
+Integration testing
+API testing
+Test coverage
+Soft Skills:
+Problem-solving
+Documentation writing
+Code review
+Communication
+Time management
+Success Tips
+Consistency over intensity - 2 hours daily beats 14 hours on Sunday
+Build, don't just learn - Projects cement knowledge
+Struggle before searching - Builds problem-solving skills
+Document your journey - Blog, GitHub, LinkedIn posts
+Join communities - Django Discord, Reddit, local meetups
+Don't skip fundamentals - Strong basics make everything easier
+Review regularly - Spaced repetition works
+Stay motivated - Track progress, celebrate small wins
+Update Log
+Keep track of your progress here:
+
+ Week 1 DSA completed - [Date]
+ Week 2 DSA completed - [Date]
+ Week 3 DSA completed - [Date]
+ Week 4 DSA completed - [Date]
+ Week 5 DSA completed - [Date]
+ Week 6 DSA completed - [Date]
+ Month 1 Django completed - [Date]
+ Month 2 DRF completed - [Date]
+ Month 3 Advanced topics completed - [Date]
+ Project 1 completed - [Date]
+ Project 2 completed - [Date]
+ Project 3 completed - [Date]
+ First job application sent - [Date]
+ Backend Developer role secured - [Date]
+Remember: This is a marathon, not a sprint. Stay consistent, keep building, and you'll reach your goal by end of 2026!
+
+Next Action: Start DSA Week 1 next week - message for detailed day-by-day breakdown.
+
